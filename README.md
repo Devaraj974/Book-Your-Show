@@ -2,6 +2,13 @@
 
 # 🎬 Book Your Show
 
+### A full-stack MERN movie ticket booking platform with real-time seat selection, secure payments, and automated QR-coded ticketing.
+
+[![Demo Video](https://img.shields.io/badge/▶%20Demo-Watch%20Now-FF0000?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1QclgQJHiAprIGe0fTSEt3EJ26rSXo3cP/view?usp=sharing)
+[![Code Explanation](https://img.shields.io/badge/📄%20Code-Explanation-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1uHCWYjCx-s7PGKRB5Mc-hKI5uzzhe4_H/view?usp=sharing)
+
+[Features](#-features) · [Tech Stack](#️-tech-stack) · [Getting Started](#-getting-started) · [Project Structure](#-project-structure) · [Contributing](#-contributing)
+
 </div>
 
 ---
@@ -128,7 +135,7 @@ book-your-show/
 
 ---
 
-## 📖 Documentation
+## 🎥 Demo & Documentation
 
 - 📄 **Code Explanation** — See [`artifacts/Code_Explanation.md`](./artifacts/Code_Explanation.md) for a detailed walkthrough of the codebase.
 - 🚢 **Deployment Guide** — See [`DEPLOYMENT.md`](./DEPLOYMENT.md) for production deployment steps.
